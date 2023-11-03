@@ -10,18 +10,21 @@ Nama proyek : Manajemen Hotel
    informasi kamar serta data tamu.
 
 2. Flowchart
+   
    ![image](https://github.com/Syahria/Proyek-Akhir-PBO/assets/127468222/7e4a5e8c-cc59-439c-9374-216cb42093f3)
 
 
-3. ERD
+4. ERD
+   
    ![image](https://github.com/Syahria/Proyek-Akhir-PBO/assets/127468222/f80494e8-bc1b-4ab1-ad6b-d8413ab78046)
 
 
-4. Hirarki kelas
+6. Hirarki kelas
+   
    ![image](https://github.com/Syahria/Proyek-Akhir-PBO/assets/127468222/66c3d43e-a514-4cfb-bf56-a0ddb791e129)
 
 
-5. Screenshoot codingan beserta penjelasan
+8. Screenshoot codingan beserta penjelasan
    a.) penerapan inheritance (KamarStandard dan KamarSuite)
         ![image](https://github.com/Syahria/Proyek-Akhir-PBO/assets/127468222/7d8cfcf4-0a8a-4443-800d-b79ba2541f11)
    
